@@ -39,3 +39,6 @@ arreglo = []
 n = int(input("Ingresa el tamaño del arreglo: "))
 
 print(arreglo)
+
+
+
